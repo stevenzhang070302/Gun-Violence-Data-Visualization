@@ -1,11 +1,11 @@
 # Gun-Violence-Data-Visualization
-Using Google Maps API and Deck.gl to visualize gun violence
+* Using Google Maps API and Deck.gl to visualize gun violence
 
-Project Build During Codeday(Hackathon)
+* Project Build During Codeday(Hackathon)
 
-Project uses a heatmap and hexagon plots to show areas on Google Maps that have experienced Gun violence. Data has been used from the gunviolencearchive.org. You also need your own google map API key in index.html.
+* Project uses a heatmap and hexagon plots to show areas on Google Maps that have experienced Gun violence. Data has been used from the gunviolencearchive.org. You also need your own google map API key in index.html.
 
-Project tutorial from Fireship.io
+* Project tutorial from Fireship.io
 
 
 # Demo
