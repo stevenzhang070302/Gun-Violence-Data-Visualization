@@ -1,0 +1,23 @@
+{
+  "name": "Gun-Violence-Visualization",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --output-path ./public",
+    "start": "webpack-dev-server --content-base ./public --output-path ./public --hot"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.10",
+    "webpack-dev-server": "^3.9.0"
+  },
+  "dependencies": {
+    "deck.gl": "^7.3.5"
+  }
+  
+}
