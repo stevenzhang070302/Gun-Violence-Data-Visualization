@@ -7,9 +7,9 @@ Project uses a heatmap and hexagon plots to show areas on Google Maps that have 
 
 
 # Demo
-![demo](https://github.com/stevenzhang070302/Gun-Violence-Data-Visualization/blob/master/pic1.png?raw=true)
-![demo](https://github.com/stevenzhang070302/Gun-Violence-Data-Visualization/blob/master/pic2.png?raw=true)
-![demo](https://github.com/stevenzhang070302/Gun-Violence-Data-Visualization/blob/master/pic3.png?raw=true)
+![demo1](https://github.com/stevenzhang070302/Gun-Violence-Data-Visualization/blob/master/pic1.png?raw=true)
+![demo2](https://github.com/stevenzhang070302/Gun-Violence-Data-Visualization/blob/master/pic2.png?raw=true)
+![demo3](https://github.com/stevenzhang070302/Gun-Violence-Data-Visualization/blob/master/pic3.png?raw=true)
 
 
 # Instructions
